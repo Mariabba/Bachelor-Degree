@@ -8,7 +8,7 @@ Giuseppe Satalino, ricercatore Consiglio Nazionale delle Ricerche (CNR) –
 Istituto Rilevamento Elettromagnetico dell’Ambiente (IREA), Bari.
 
 Per motivi professionali non posso inserire i file elaborati durante lo svolgimento dell'intero progetto,
-ma sono ampiamente descritti i risultati ottenuti
+ma sono ampiamente descritti i risultati ottenuti.
 
 # Introduzione
 In questo lavoro di tesi sono state utilizzate tecnologie innovative per l’elaborazione, l’analisi e la
