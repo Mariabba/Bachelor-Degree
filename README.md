@@ -7,7 +7,7 @@ applicazioni, Donato Impedovo, Dipartimento di Informatica, Bari e del Dr.
 Giuseppe Satalino, ricercatore Consiglio Nazionale delle Ricerche (CNR) –
 Istituto Rilevamento Elettromagnetico dell’Ambiente (IREA), Bari.
 
-#Introduzione
+# Introduzione
 In questo lavoro di tesi sono state utilizzate tecnologie innovative per l’elaborazione, l’analisi e la
 classificazione di dati telerilevati del Satellite Europeo Sentinel-2.
 L’obiettivo di questo studio è stato quello di effettuare una classificazione dei dati telerilevati per
