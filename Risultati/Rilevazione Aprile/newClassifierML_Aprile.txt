@@ -1,0 +1,103 @@
+MaximumLikelihood classifier newClassifierML_Aprile
+
+Cross Validation
+Number of classes = 19
+   class 0.0: Tomato                   
+    accuracy = 0.9256 precision = 0.7520 correlation = 0.4868 errorRate = 0.0744
+    TruePositives = 858.0000 FalsePositives = 283.0000 TrueNegatives = 24737.0000 FalseNegatives = 1774.0000
+   class 1.0: Broccoli/Cauliflower     
+    accuracy = 0.9864 precision = 0.7002 correlation = 0.6265 errorRate = 0.0136
+    TruePositives = 313.0000 FalsePositives = 134.0000 TrueNegatives = 26963.0000 FalseNegatives = 242.0000
+   class 2.0: Horse_beans              
+    accuracy = 0.9362 precision = 0.7139 correlation = 0.6171 errorRate = 0.0638
+    TruePositives = 1450.0000 FalsePositives = 581.0000 TrueNegatives = 24439.0000 FalseNegatives = 1182.0000
+   class 3.0: Bare_soil                
+    accuracy = 0.9405 precision = 0.3191 correlation = 0.3321 errorRate = 0.0595
+    TruePositives = 389.0000 FalsePositives = 830.0000 TrueNegatives = 25617.0000 FalseNegatives = 816.0000
+   class 4.0: Asparagus                
+    accuracy = 0.8672 precision = 0.2867 correlation = 0.4649 errorRate = 0.1328
+    TruePositives = 1359.0000 FalsePositives = 3381.0000 TrueNegatives = 22622.0000 FalseNegatives = 290.0000
+   class 5.0: Peach                    
+    accuracy = 0.9852 precision = 0.1727 correlation = 0.3672 errorRate = 0.0148
+    TruePositives = 81.0000 FalsePositives = 388.0000 TrueNegatives = 27161.0000 FalseNegatives = 22.0000
+   class 6.0: Barley                   
+    accuracy = 0.9608 precision = 0.7959 correlation = 0.7807 errorRate = 0.0392
+    TruePositives = 2082.0000 FalsePositives = 534.0000 TrueNegatives = 24486.0000 FalseNegatives = 550.0000
+   class 7.0: Chickpea                 
+    accuracy = 0.9682 precision = 0.8516 correlation = 0.8172 errorRate = 0.0318
+    TruePositives = 2123.0000 FalsePositives = 370.0000 TrueNegatives = 24650.0000 FalseNegatives = 509.0000
+   class 8.0: Evergreen_forest         
+    accuracy = 0.9999 precision = 1.0000 correlation = 0.9843 errorRate = 0.0001
+    TruePositives = 125.0000 FalsePositives = 0.0000 TrueNegatives = 27523.0000 FalseNegatives = 4.0000
+   class 9.0: Photovoltaic__panels     
+    accuracy = 0.9797 precision = 0.9147 correlation = 0.8819 errorRate = 0.0203
+    TruePositives = 2283.0000 FalsePositives = 213.0000 TrueNegatives = 24807.0000 FalseNegatives = 349.0000
+   class 10.0: Deciduous_forests        
+    accuracy = 0.9992 precision = 0.9692 correlation = 0.9542 errorRate = 0.0008
+    TruePositives = 220.0000 FalsePositives = 7.0000 TrueNegatives = 27411.0000 FalseNegatives = 14.0000
+   class 11.0: Vine                     
+    accuracy = 0.9070 precision = 0.5180 correlation = 0.4182 errorRate = 0.0930
+    TruePositives = 864.0000 FalsePositives = 804.0000 TrueNegatives = 24216.0000 FalseNegatives = 1768.0000
+   class 12.0: Spinach                  
+    accuracy = 0.9864 precision = 0.4732 correlation = 0.6097 errorRate = 0.0136
+    TruePositives = 274.0000 FalsePositives = 305.0000 TrueNegatives = 27001.0000 FalseNegatives = 72.0000
+   class 13.0: Artichoke                
+    accuracy = 0.9583 precision = 0.6728 correlation = 0.6922 errorRate = 0.0417
+    TruePositives = 1351.0000 FalsePositives = 657.0000 TrueNegatives = 25147.0000 FalseNegatives = 497.0000
+   class 14.0: Grassland                
+    accuracy = 0.9995 precision = 0.9368 correlation = 0.9589 errorRate = 0.0005
+    TruePositives = 163.0000 FalsePositives = 11.0000 TrueNegatives = 27475.0000 FalseNegatives = 3.0000
+   class 15.0: Durum_Wheat              
+    accuracy = 0.9530 precision = 0.7224 correlation = 0.7563 errorRate = 0.0470
+    TruePositives = 2165.0000 FalsePositives = 832.0000 TrueNegatives = 24188.0000 FalseNegatives = 467.0000
+   class 16.0: Shrublands               
+    accuracy = 0.9920 precision = 0.4024 correlation = 0.5905 errorRate = 0.0080
+    TruePositives = 136.0000 FalsePositives = 202.0000 TrueNegatives = 27294.0000 FalseNegatives = 20.0000
+   class 17.0: Olive                    
+    accuracy = 0.9257 precision = 0.6958 correlation = 0.5146 errorRate = 0.0743
+    TruePositives = 1027.0000 FalsePositives = 449.0000 TrueNegatives = 24571.0000 FalseNegatives = 1605.0000
+   class 18.0: Urban                    
+    accuracy = 0.9918 precision = 0.4730 correlation = 0.6649 errorRate = 0.0082
+    TruePositives = 193.0000 FalsePositives = 215.0000 TrueNegatives = 27232.0000 FalseNegatives = 12.0000
+
+Using Testing dataset, % correct predictions = 63.1274
+Total samples = 55310
+RMSE = 4.963609800129203
+Bias = -0.09749746853753827
+
+Distribution:
+   class 0.0: Tomato                     5264	 (9.5173%)
+   class 1.0: Broccoli/Cauliflower       1110	 (2.0069%)
+   class 2.0: Horse_beans                5264	 (9.5173%)
+   class 3.0: Bare_soil                  2411	 (4.3591%)
+   class 4.0: Asparagus                  3299	 (5.9646%)
+   class 5.0: Peach                      206	 (0.3724%)
+   class 6.0: Barley                     5264	 (9.5173%)
+   class 7.0: Chickpea                   5264	 (9.5173%)
+   class 8.0: Evergreen_forest           258	 (0.4665%)
+   class 9.0: Photovoltaic__panels       5264	 (9.5173%)
+   class 10.0: Deciduous_forests          468	 (0.8461%)
+   class 11.0: Vine                       5264	 (9.5173%)
+   class 12.0: Spinach                    692	 (1.2511%)
+   class 13.0: Artichoke                  3697	 (6.6841%)
+   class 14.0: Grassland                  333	 (0.6021%)
+   class 15.0: Durum_Wheat                5264	 (9.5173%)
+   class 16.0: Shrublands                 313	 (0.5659%)
+   class 17.0: Olive                      5264	 (9.5173%)
+   class 18.0: Urban                      411	 (0.7431%)
+
+Testing feature importance score:
+Each feature is perturbed 3 times and the % correct predictions are averaged
+The importance score is the original % correct prediction - average
+   rank 1   feature 1  : B2                       score: tp=0.6075 accuracy=0.0557 precision=0.1867 correlation=0.5741 errorRate=-0.0557 cost=-7.5152 GainRatio = 0.2092
+   rank 2   feature 2  : B3                       score: tp=0.6065 accuracy=0.0497 precision=0.1714 correlation=0.5597 errorRate=-0.0497 cost=-6.8343 GainRatio = 0.2529
+   rank 3   feature 3  : B4                       score: tp=0.5947 accuracy=0.0565 precision=0.1789 correlation=0.5534 errorRate=-0.0565 cost=-7.1325 GainRatio = 0.2677
+   rank 4   feature 4  : B5                       score: tp=0.5836 accuracy=0.0550 precision=0.1715 correlation=0.5347 errorRate=-0.0550 cost=-6.2687 GainRatio = 0.2525
+   rank 5   feature 6  : B7                       score: tp=0.5731 accuracy=0.0474 precision=0.1106 correlation=0.5076 errorRate=-0.0474 cost=-6.4148 GainRatio = 0.2730
+   rank 6   feature 8  : B8A                      score: tp=0.5717 accuracy=0.0577 precision=0.1667 correlation=0.5196 errorRate=-0.0577 cost=-6.4935 GainRatio = 0.2616
+   rank 7   feature 10 : B12                      score: tp=0.5709 accuracy=0.0450 precision=0.2763 correlation=0.5345 errorRate=-0.0450 cost=-5.8511 GainRatio = 0.3232
+   rank 8   feature 5  : B6                       score: tp=0.5634 accuracy=0.0460 precision=0.1991 correlation=0.5261 errorRate=-0.0460 cost=-Infinity GainRatio = 0.2553
+   rank 9   feature 9  : B11                      score: tp=0.5177 accuracy=0.0475 precision=0.2953 correlation=0.5158 errorRate=-0.0475 cost=-2.5234 GainRatio = 0.2729
+   rank 10  feature 7  : B8                       score: tp=0.4533 accuracy=0.0477 precision=0.1230 correlation=0.4425 errorRate=-0.0477 cost=-1.6668 GainRatio = 0.2610
+
+
